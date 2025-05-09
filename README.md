@@ -11,4 +11,5 @@ Sequential decision making
 
 ## 9th May 2025
 Environment uncertainty  - stochastic environment
+
 State uncertainty - due to partial/noisy environment
