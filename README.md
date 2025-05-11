@@ -13,3 +13,9 @@ Sequential decision making
 Environment uncertainty  - stochastic environment
 
 State uncertainty - due to partial/noisy environment
+
+## 11th May 2025
+
+MDP are elegant mathmatical framework for the first case (stochastic environments). Can be extended or generalized to cases when we have limited observabilities - this updated framework would be called POMDP.
+
+
