@@ -33,8 +33,7 @@ print(f'The outcome of the coin flip is: {flip_coin(face)[0]}')
 
     Output would be:   
     
-    `The outcome of the coin flip is: H`
-
+  ` The outcome of the coin flip is:  H`
 
 print(f'The outcome of the coin flip is: {flip_coin(face)}')
 
