@@ -49,3 +49,36 @@ print(f'The outcome of the coin flip is: {flip_coin(face)}')
    [0] gets us the actual result ('H' or 'T') as a string.
 
  Without [0], we're printing a list (['H'] or ['T']), which is usually not what wee want for clean output.
+
+
+
+## 17th May 2025
+
+
+    def flip_coin(face):
+    
+    if face =='H': 
+        return random.choices(['H','T'], weights = [0.8,0.2])
+    elif face == 'T':
+        return random.choices(['T','H'], weights = [0.7,0.3])
+    else: 
+        print('Incorrect entry!')
+
+
+For this, the else option does print Incorrect Entry but also gives an error message: 'NonType object is not subscriptable'.  Why? 
+
+
+GPT Answer: 
+
+because there is no return statement in the else block, the function implicitly returns None.
+So you're effectively doing:
+print(f'The outcome of the coin flip is: {None[0]}')
+
+'None' is not subscriptable 
+
+
+Solved the above problem :3 
+
+Return a message - but return it as a list else the result will be just 'I'  - the 0th indexed item of the message. 
+
+
