@@ -82,3 +82,8 @@ Solved the above problem :3
 Return a message - but return it as a list else the result will be just 'I'  - the 0th indexed item of the message. 
 
 
+## 30th May 2025
+
+Changing color of Markdown text now that `font` is deprecated.  https://stackoverflow.com/questions/19746350/how-to-change-color-in-markdown-cells-ipython-jupyter-notebook
+
+<span style='color:green'> message/text </span>
