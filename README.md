@@ -86,4 +86,4 @@ Return a message - but return it as a list else the result will be just 'I'  - t
 
 Changing color of Markdown text now that `font` is deprecated.  https://stackoverflow.com/questions/19746350/how-to-change-color-in-markdown-cells-ipython-jupyter-notebook
 
-<span style='color:green'> message/text </span>
+```html <span style='color:green'> message/text </span>```
