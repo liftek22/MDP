@@ -97,14 +97,14 @@ Config file changes don't work.  Tried to make a .bat file to use a one click la
 
 Any, will stick to manually inputting the following in Anaconda Prompth 
 
-`G: 
-jupyter notebook`
+    G: 
+    jupyter notebook
 
 
 If I want to go directly to the actual folder, I can do 
-`G: 
-cd JupyterNotebooks
-jupyter notebook`
+    
+    G: 
+    cd JupyterNotebooks
+    jupyter notebook`
 
-
-##
+GPT helped, but was clumsy.  I think I should stick to Gemini. 
