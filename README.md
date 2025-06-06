@@ -105,6 +105,6 @@ If I want to go directly to the actual folder, I can do
     
     G: 
     cd JupyterNotebooks
-    jupyter notebook`
+    jupyter notebook
 
 GPT helped, but was clumsy.  I think I should stick to Gemini. 
