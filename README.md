@@ -112,3 +112,7 @@ GPT helped, but was clumsy.  I think I should stick to Gemini.
 ## 8th June 2025 
 
 Just got on the notebook using Anaconda Prompt from memory.  This is to aquire muscle memory. 
+
+## 8th August 2025 
+
+Anaconda Prompt to notebook again. 
