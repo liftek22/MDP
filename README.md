@@ -115,4 +115,5 @@ Just got on the notebook using Anaconda Prompt from memory.  This is to aquire m
 
 ## 8th August 2025 
 
-Anaconda Prompt to notebook again. 
+Anaconda Prompt to notebook again.  Also reread the initial text. 
+
