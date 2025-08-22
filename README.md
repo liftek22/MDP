@@ -95,7 +95,7 @@ Spent like an hour trying to different methods to easily launch jupyter notebook
 
 Config file changes don't work.  Tried to make a .bat file to use a one click launcher - some DLL error. 
 
-Any, will stick to manually inputting the following in Anaconda Prompth 
+Anyway, will stick to manually inputting the following in Anaconda Prompt. 
 
     G: 
     jupyter notebook
@@ -116,4 +116,8 @@ Just got on the notebook using Anaconda Prompt from memory.  This is to aquire m
 ## 8th August 2025 
 
 Anaconda Prompt to notebook again.  Also reread the initial text. 
+
+## 22nd August 2025 
+
+Practiced Anaconda Prompt to notebook yet again.  Also fixed typos above. 
 
