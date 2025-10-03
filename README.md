@@ -121,3 +121,7 @@ Anaconda Prompt to notebook again.  Also reread the initial text.
 
 Practiced Anaconda Prompt to notebook yet again.  Also fixed typos above. 
 
+## 3rd October 2025 
+
+Did till the first chain. With fixed Transition Matrix. 
+
