@@ -125,3 +125,10 @@ Practiced Anaconda Prompt to notebook yet again.  Also fixed typos above.
 
 Did till the first chain. With fixed Transition Matrix. 
 
+## 4th October 2025
+
+Transition model or Transition functionn.  Row to columnn. 
+
+If the transition probabilities do not change with time, then it is a _stationary_ Markov Process. 
+
+The next outcome isn't fixed.  The probabilities are fixed.  
