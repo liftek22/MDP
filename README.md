@@ -132,3 +132,16 @@ Transition model or Transition functionn.  Row to columnn.
 If the transition probabilities do not change with time, then it is a _stationary_ Markov Process. 
 
 The next outcome isn't fixed.  The probabilities are fixed.  
+
+
+## 5th October 2025
+
+Discussing with Gemini
+
+_The Markov Property states that the probability of transitioning to any future state depends only on the current state and not on the sequence of events that preceded it. This is often described as "memorylessness."_
+
+In a Ludo game, _the movement of a single piece based on a sequence of dice rolls perfectly fits the definition of a Discrete-Time Markov Chain (DTMC)._
+
+Weather modelling forcasting:_The probability of the weather being, say, "Rainy" tomorrow depends on the weather today (the current state), not on the entire sequence of weather for the past week. For example, a transition matrix would show the probability of moving from "Sunny" to "Rainy" or from "Cloudy" to "Sunny" for the next day_
+
+Brand loyalty and customer switching: _The probability of a customer buying a specific brand next time depends largely on which brand they bought this time (the current state). For instance, a transition probability might show that a customer who bought Brand A today has an 80% chance of buying Brand A again next week and a 20% chance of switching to Brand B or C._
